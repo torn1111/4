@@ -264,7 +264,7 @@ margin-bottom: 14px;
     opacity: 0.4;
 }
 hr{
-    border:3px solid grey;
+    border:1px solid rgb(98, 187, 247);
 }
 .send {
     background: #5A98D0;
